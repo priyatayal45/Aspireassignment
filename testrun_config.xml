@@ -4,7 +4,7 @@
 	<test name="Test">
 		<classes>
 			<class
-				name="com.aspireappautomation.test.testcases.Test1" />
+				name="com.aspireappautomation.test.testcases.OrderCreationTest" />
 		</classes>
 	</test>
  </suite> 
